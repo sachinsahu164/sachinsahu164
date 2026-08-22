@@ -1,6 +1,14 @@
 <!-- HEADER BANNER -->
 <div align="center">
+  <!-- Main Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sachin%20Sahu&fontSize=50&animation=twinkling" width="100%"/>
+
+  <br/>
+
+  <!-- Dynamic Role / Subtitle Typing Animation -->
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=Java+Developer+%7C+Android+Developer;Backend+Engineer+%7C+Spring+Boot;Building+High-Throughput+Systems" alt="Typing SVG" />
+  </a>
 </div>
 
 ### 🚀 About Me
