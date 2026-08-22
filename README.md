@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachinsahu164/sachinsahu164/main/banner.jpg" width="100%" alt="Sachin Sahu Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sachin%20Sahu&fontSize=50&animation=twinkling" width="100%"/>
 </div>
 
 ### 🚀 About Me
