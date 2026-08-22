@@ -1,6 +1,12 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sachin%20Sahu&fontSize=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e2e,100:89b4fa&height=220&section=header&text=Sachin%20Sahu&fontSize=52&fontColor=ffffff&animation=fadeIn&stroke=89b4fa&strokeWidth=1" width="100%"/>
+  
+  <br/>
+  
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=89B4FA&center=true&vcenter=true&width=600&lines=Java+%2| Spring+Boot+Backend+Developer;High-Throughput+Systems+%26+Kafka;Android+App+Engineer+(Kotlin);Virtual+Threads+%26+Concurrency" alt="Typing SVG" />
+  </a>
 </div>
 
 ### 🚀 About Me
