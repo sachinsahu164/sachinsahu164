@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sachinsahu164/sachinsahu164/main/banner.png" width="100%" alt="Sachin Sahu Header Banner"/>
+  <img src="https://raw.githubusercontent.com/sachinsahu164/sachinsahu164/main/banner.jpg" width="100%" alt="Sachin Sahu Header Banner"/>
 </div>
 
 ### 🚀 About Me
