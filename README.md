@@ -34,10 +34,17 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinsahu164&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- FIX 1: Stable Mirror Link for Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sachinsahu164&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  
+  <!-- FIX 2: Stable Streak Card -->
   <img src="https://streak-stats.demolab.com/?user=sachinsahu164&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+<!-- ENHANCEMENT: Top Languages Used Graph -->
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sachinsahu164&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="48%" />
+</p>
 ---
 
 <div align="center">
